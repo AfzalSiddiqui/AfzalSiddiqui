@@ -1,6 +1,6 @@
 Hi, I'm Afzal 👋
 
-iOS Engineer focused on fintech, Islamic finance, and AI-native mobile experiences. Based in Dubai, UAE. I work across the full product lifecycle — from early wireframes with designers to App Store release and iteration based on real user feedback. I value fast execution, clean architecture, and building products that feel intuitive and responsive.
+Lead Mobile Engineer focused on fintech, Islamic finance, and AI-native mobile experiences. Based in Dubai, UAE. I work across the full product lifecycle — from early wireframes with designers to App Store release and iteration based on real user feedback. I value fast execution, clean architecture, and building products that feel intuitive and responsive.
 
 
 What I'm working on
