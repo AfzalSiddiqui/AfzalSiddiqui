@@ -1,101 +1,38 @@
-👋 Afzal Siddiqui
+# Afzal Siddiqui
 
-Lead Mobile Engineer specializing in React Native platform engineering, fintech systems, and mobile architecture at scale. Based in Dubai, UAE.
+**Lead iOS Engineer — identity, payments and trust at consumer scale.** Dubai, UAE.
 
-I design and build mobile platforms, SDKs, and engineering foundations that enable multiple teams to ship faster, safer, and with consistent architecture.
+I build the client-side systems people trust with their money: account and onboarding flows, payment surfaces, and the shared iOS frameworks that let multiple product teams ship against one foundation. Seventeen years in production iOS, the last seven on UAE banking apps serving over a million users.
 
-🧠 What I Do
+## What I work on
 
-I focus on building mobile systems, not just applications.
+**Payments and Apple platform integration** — issuer-side Apple Pay provisioning (pushing cards to Wallet via PassKit), Apple Pay acceptance in consumer apps, tokenised card storage, and a payment gateway SDK embedded by third-party merchant apps.
 
-My work spans:
+**Identity and trust** — document capture and OCR with Vision, face match and liveness, NFC passport reads, biometric authentication, and the security frameworks that sit under them.
 
-React Native platform architecture
-Shared SDK and design system development
-Mobile observability and runtime monitoring systems
-Scalable networking and state management layers
-Cross-team mobile engineering standards
-AI-driven fintech and decision systems
-Performance-first mobile architecture
-🏗️ Featured Mobile Platforms
-🧩 Mobile Observability Platform
+**Shared iOS foundations** — versioned Swift Packages consumed by more than one production app, with the migration paths and release discipline that come with owning an API other teams depend on.
 
-A production-grade React Native observability SDK for multi-team environments.
+**On-device intelligence** — Core ML in live transaction paths, Vision-based document understanding, and inference that stays on the handset.
 
-Provides unified systems for:
+## Open source
 
-Structured logging
-Crash reporting abstraction
-Network telemetry
-Performance monitoring
-Session correlation
+| Project | What it is |
+| --- | --- |
+| [flux-ios-foundation](https://github.com/AfzalSiddiqui/flux-ios-foundation) | 26 SwiftUI components in Atomic Design layers — atoms, molecules, organisms — each with its own ViewModel, all visuals driven from design tokens, no hard-coded values |
+| [flux-ios-experience](https://github.com/AfzalSiddiqui/flux-ios-experience) | The showcase app — 29 interactive screens with live variant, state and theme switching |
+| [Signal-iOS](https://github.com/AfzalSiddiqui/Signal-iOS) | Type-safe async/await networking — generic client, Codable models, typed errors, token refresh, LRU cache with TTL, retry with backoff |
+| [MotionKit-iOS](https://github.com/AfzalSiddiqui/MotionKit-iOS) | Reusable SwiftUI animations behind a protocol-based effects architecture |
 
-Built for fintech-scale mobile reliability and debugging consistency.
+I also maintain React Native counterparts of the Flux, Signal and MotionKit libraries, and build AI-driven fintech prototypes in TypeScript and Python.
 
-🎬 MotionKit React Native
+## How I think about mobile
 
-Reusable cross-platform animation system.
+Shared systems over duplicated logic. Tests that run on every pull request, not just before release. Architecture chosen for what it costs as well as what it gives — modularising a codebase buys parallel builds and pays for it in package boundaries and dependency wiring, and both halves belong in the decision.
 
-20+ production-ready animation patterns
-Unified motion API for all UI components
-Performance-optimized transitions
-Designed for consistent UX across apps
-🌐 Signal React Native
+## Stack
 
-Lightweight networking abstraction layer.
+Swift 6 · SwiftUI · UIKit · Swift Concurrency · Core ML · Vision · PassKit · StoreKit 2 · Core Data · Swift Package Manager · XCTest / XCUITest · Fastlane · Jenkins · iOS 15–26
 
-Centralized API client design
-Error normalization system
-Retry + timeout handling
-Secure authentication flows
-Correlation-aware request tracking
-🎨 Flux React Native Experience
+---
 
-Enterprise-grade design system architecture.
-
-Reusable component library
-Design token system
-Theme management layer
-Scalable UI architecture for multi-app usage
-🕌 Barakah
-
-AI-powered Islamic finance platform built with React Native + TypeScript.
-
-Intent-driven financial UX
-System-level compliance design (Sharia-first architecture)
-Modular scalable app structure
-AI-enabled financial interaction layer
-🧠 Credit Risk Scoring System
-
-AI/ML-based fintech decision system.
-
-Credit risk modeling experiments
-Financial scoring engine prototypes
-Python + Jupyter ML workflows
-Data-driven decision intelligence
-🧠 Engineering Philosophy
-
-I build platforms that scale across teams, not isolated apps.
-
-Core principles:
-
-Shared systems over duplicated logic
-Consistency through architecture
-Observability-first mobile design
-Safe, production-grade SDKs
-Long-term maintainability over quick delivery
-⚙️ Tech Stack
-
-React Native • TypeScript • Swift • Redux Toolkit • Zustand • React Query • Node.js • CI/CD (GitHub Actions) • Monorepo Architecture • Mobile Observability Systems • AI/ML Engineering
-
-🚀 Goal
-
-To build mobile platforms that enable engineering teams to operate at scale, with:
-
-Faster delivery cycles
-Higher system reliability
-Shared engineering standards
-Strong observability and control layers
-📌 Core Principle
-
-“Great mobile systems don’t live in apps — they live in platforms that multiple teams depend on.”
+📍 Dubai, UAE · open to relocating · [LinkedIn](https://www.linkedin.com/in/afzalsiddiqui214/) · afzal.siddiqui214@gmail.com
