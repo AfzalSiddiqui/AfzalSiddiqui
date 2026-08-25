@@ -2,13 +2,17 @@
 
 **Lead Mobile Engineer — identity, payments and trust at consumer scale.** Dubai, UAE.
 
-I build the client-side systems people trust with their money: account and onboarding flows, payment surfaces, and the shared iOS frameworks that let multiple product teams ship against one foundation. Seventeen years in production iOS, the last seven on UAE banking apps serving over a million users.
+**Lead Mobile Engineer — identity, payments, wealth and trust at consumer scale.** Dubai, UAE.
+
+I build the client-side systems people trust with their money: account and onboarding flows, payment surfaces, wealth and investment experiences, and the shared iOS frameworks that let multiple product teams ship against one foundation. Seventeen years in production iOS, with the last seven focused on UAE banking and financial applications serving over a million users.
 
 ## What I work on
 
+**Wealth, stocks and crypto** — investment and wealth-management experiences covering equities, market data, trading journeys, portfolio views, and crypto assets. I’ve worked on mobile experiences that bring stocks, crypto, and other investment products into consumer banking platforms.
+
 **Payments and Apple platform integration** — issuer-side Apple Pay provisioning (pushing cards to Wallet via PassKit), Apple Pay acceptance in consumer apps, tokenised card storage, and a payment gateway SDK embedded by third-party merchant apps.
 
-**Identity and trust** — document capture and OCR with Vision, face match and liveness, NFC passport reads, biometric authentication, and the security frameworks that sit under them.
+**Identity and trust** — document capture and OCR with Vision, face match and liveness, NFC passport reads, biometric authentication, and the security frameworks that sit underneath them.
 
 **Shared iOS foundations** — versioned Swift Packages consumed by more than one production app, with the migration paths and release discipline that come with owning an API other teams depend on.
 
