@@ -1,7 +1,5 @@
 # Afzal Siddiqui
 
-**Lead Mobile Engineer — identity, payments and trust at consumer scale.** Dubai, UAE.
-
 **Lead Mobile Engineer — identity, payments, wealth and trust at consumer scale.** Dubai, UAE.
 
 I build the client-side systems people trust with their money: account and onboarding flows, payment surfaces, wealth and investment experiences, and the shared iOS frameworks that let multiple product teams ship against one foundation. Seventeen years in production iOS, with the last seven focused on UAE banking and financial applications serving over a million users.
